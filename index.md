@@ -1,3 +1,11 @@
+## Olivia Lund's First CS193 Homework
+
+```markdown
+-only meets once a week
+-taught by chill ta's
+-relaxed environment
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
